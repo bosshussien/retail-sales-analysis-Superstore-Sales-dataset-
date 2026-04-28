@@ -54,8 +54,6 @@ The dashboard includes visualizations for:
 - Dashboard design
 - Basic data cleaning and transformation
 
-## Preview
-(images)
 
 ## Notes
 This project is organized as a single Excel workbook with multiple sheets:
