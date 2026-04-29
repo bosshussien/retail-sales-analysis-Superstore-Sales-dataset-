@@ -1,5 +1,5 @@
 # Excel Sales Analysis Dashboard
-
+source: https://www.kaggle.com/datasets/himanshuuike/superstore-sales-dataset
 ## Overview
 This project is an Excel-based sales analysis dashboard built from a raw transactional dataset. It includes data cleaning, calculated columns, pivot tables, and dashboards to summarize sales performance, regional trends, shipping efficiency, and profitability.
 
